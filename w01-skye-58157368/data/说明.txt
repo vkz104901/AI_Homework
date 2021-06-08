@@ -1,0 +1,21 @@
+Ames_House_test.csv		原始数据：测试集
+Ames_House_train.csv		原始数据：训练集
+
+AmesHouse_FE_DE1_test.csv	数据探索 1 后的数据
+AmesHouse_FE_DE1_train.csv
+
+AmesHouse_FE_DE2_test.csv	数据探索 2 后的数据
+AmesHouse_FE_DE2_train.csv
+
+AmesHouse_FE_test.csv		特征工程后的数据
+AmesHouse_FE_train.csv
+
+AmesHouse_Predict_lasso.csv	预测结果：lasso 模型
+AmesHouse_Predict_LR.csv	预测结果：默认的线性回归
+AmesHouse_Predict_ridge.csv	预测结果：岭回归模型
+AmesHouse_Predict_sgdr.csv	预测结果：随机梯度下降的模型
+
+house_coor.png			特征之间的相关性矩阵图
+house_coor_DE2.png
+
+
