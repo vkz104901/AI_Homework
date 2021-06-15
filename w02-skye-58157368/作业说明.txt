@@ -1,0 +1,10 @@
+data 文件夹
+只提交了测试集预测结果
+
+原始数据，老师那里有
+特征工程后的，可以执行 FE2_RentListingInquries.ipynb 得到
+
+关于 SVM
+SVM1_RentListingInqueries 是个人练习（训练时间比较短 5 分钟 ）
+SVM2_RentListingInqueries 是作业要求的算法（训练时间很长 1 小时左右）
+
